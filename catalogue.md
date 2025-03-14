@@ -4,6 +4,8 @@ Models purported to be "good at creative writing," such as DeepSeek R1 and an un
 
 It is striking that the OpenAI model – judging from the one example we have – shows _the same_ distinctive stylistic quirks as DeepSeek R1.  I don't know what to make of this.
 
+I noted multiple instances of these "tics" in every model-generated text included here, except for [the Hemingway pastiche](./stories/nost-pastiche-hemingway.md), which had none of them at all – presumably because Hemingway himself has a distinctive and contrained style which leaves no room for these kinds of flourishes.
+
 ## Conjunction of the abstract/incorporeal and the concrete/sensory
 
 - [Sam Altman's story (unreleased OpenAI model)](./stories/sama.md)
