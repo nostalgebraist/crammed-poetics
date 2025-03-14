@@ -1,4 +1,8 @@
-# Index of stylistic "tics"
+# Index of stylistic "tics" and "tells"
+
+Models purported to be "good at creative writing," such as DeepSeek R1 and an unreleased OpenAI model, display a remarkably narrow and consistent literary style typefied by the features catalogued here.
+
+It is striking that the OpenAI model – judging from the one example we have – shows _the same_ distinctive stylistic quirks as DeepSeek R1.  I don't know what to make of this.
 
 ## Conjunction of the abstract/incorporeal and the concrete/sensory
 
