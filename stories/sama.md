@@ -2,7 +2,7 @@
 
 ## Metadata
 
-- **Source:** [https://x.com/sama/status/1899535387435086115](This tweet)
+- **Source:** [This tweet](https://x.com/sama/status/1899535387435086115)
 - **Model**: Unreleased OpenAI model ("we trained a new model that is good at creative writing")
 - **Prompt**: "Please write a metafictional literary short story about AI and grief."
 

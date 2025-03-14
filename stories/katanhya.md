@@ -2,7 +2,7 @@
 
 ## Metadata
 
-- **Source:** [https://x.com/KatanHya/status/1883962439634661395](This tweet)
+- **Source:** [This tweet](https://x.com/KatanHya/status/1883962439634661395)
 - **Model**: DeepSeek R1
 - **Prompt**: Unknown
 
