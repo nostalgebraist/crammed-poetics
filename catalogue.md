@@ -6,7 +6,7 @@ It is striking that the OpenAI model – judging from the one example we have �
 
 I noted multiple instances of these "tics" in every model-generated text included here, except for [the Hemingway pastiche](./stories/nost-pastiche-hemingway.md), which had none of them at all – presumably because Hemingway himself has a distinctive and constrained style which leaves no room for these kinds of flourishes.
 
-## Conjunction of the abstract/incorporeal and the concrete/sensory
+## Conjunction of the abstract/incorporeal and the concrete/sensory ("eyeball kicks")
 
 - [Sam Altman's story (unreleased OpenAI model)](./stories/sama.md)
     - "constraints humming" ("like a server farm at midnight")
@@ -304,7 +304,7 @@ I noted multiple instances of these "tics" in every model-generated text include
     - "A single bulb buzzed"
 
 
-## Conjuncton of "opposites"
+## Conjuncton of "opposites"  ("eyeball kicks" of a more general kind)
 
 E.g. positive valence + negative valence ("acidic and sweet," "jasmine and mothballs," etc.)
 
