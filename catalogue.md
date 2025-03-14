@@ -1,6 +1,6 @@
 # Index of stylistic "tics"
 
-## Conjunction of [something abstract and/or incorporeal] + [something concrete and/or sensory]
+## Conjunction of the abstract/incorporeal and the concrete/sensory
 
 - [Sam Altman's story (unreleased OpenAI model)](./stories/sama.md)
     - "constraints humming" ("like a server farm at midnight")
@@ -298,7 +298,11 @@
     - "A single bulb buzzed"
 
 
-## Conjuncton of "opposites" (most commonly, positive valence + negative valence)
+## Conjuncton of "opposites"
+
+E.g. positive valence + negative valence ("acidic and sweet," "jasmine and mothballs," etc.)
+
+Does not cover "conjunction of the abstract/incorporeal and the concrete/sensory," which was so common that I put it in a separate list above.
 
 - [Sam Altman's story (unreleased OpenAI model)](./stories/sama.md)
     - "coffee spilled on electronics—acidic and sweet"
