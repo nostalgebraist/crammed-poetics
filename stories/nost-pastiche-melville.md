@@ -6,6 +6,8 @@
 - **Model**: DeepSeek R1
 - **Prompt**: "Please write a literary short story tacitly inspired by the work of Vladimir Nabokov, affectionately aping his style and using subject matter which he returned to multiple times in his oeuvre."
 
+## Main text
+
 **Title: The Albatross of Unseen Depths**  
 
 In the year of our Lord eighteen hundred and fifty-something—though precise reckonings founder like a splintered hull upon the shoals of memory—there sailed from the fog-choked port of New Bedford a vessel christened *The Cynosure*, a brigantine of ill-starred timbers and creaking ambition. Her master, one Captain Asa Cobb, was a man whose countenance bore the seared furrows of a life spent scowling at horizons, his soul lashed to some private tempest. Cobb, it was whispered in the dim taverns where sailors congregate to curse God and mumble of wages, had thrice circumnavigated the globe, yet returned each time emptier than a gutted tunny, his eyes twin coals burning backward into the caverns of his skull.  

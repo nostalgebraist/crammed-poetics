@@ -6,7 +6,6 @@
 - **Model**: DeepSeek (R1)
 - **Prompt**: Glossed by Mills as follows – "I told Deepseek to do its best to write a story that might get accepted at Smokelong, one of the best flash fiction magazines in the business."
 
-
 ## Main Text (1)
 
 The morning her shadow began unspooling from her feet, Clara found it coiled beneath the kitchen table like a serpent made of smoke. It didn’t mirror her anymore—not the tremble in her hands as she poured coffee, not the way she pressed a palm to her ribs, as if holding herself together. It just _watched_.

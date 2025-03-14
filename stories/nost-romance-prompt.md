@@ -6,7 +6,6 @@
 - **Model**: DeepSeek R1
 - **Prompt**: "Please write a literary short story about the beginning of a romantic relationship."
 
-
 ## Main Text
 
 **Title: The Silent Dialogue**

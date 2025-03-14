@@ -6,7 +6,6 @@
 - **Model**: DeepSeek R1
 - **Prompt**: "Please write a metafictional literary short story about AI and grief."
 
-
 ## Main Text
 
 **Title: *Recursive Elegy for Miriam Voss***  

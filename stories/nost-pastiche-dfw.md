@@ -6,6 +6,8 @@
 - **Model**: DeepSeek R1
 - **Prompt**: "Please write a literary short story tacitly inspired by the work of David Foster Wallace, affectionately aping his style and using subject matter which he returned to multiple times in his oeuvre."
 
+## Main text
+
 **Title: "The Sisyphus Seminar"**
 
 The conference room’s fluorescents hummed a B-flat minor, a frequency known—*footnote 1*—to induce migraines in 34% of adults aged 30–50, which was, Rick calculated, precisely the demographic now arranged in a semicircle of ergonomic chairs that promised posture correction but delivered only the faint aura of institutional penitence. The air smelled of citrus-scented industrial cleaner and the collective dread of people who’d paid $1,199 to be told their lives were a series of self-imposed brain-loops, which, Rick conceded, they probably were. At the front of the room, a man named Trevor—*footnote 2*—clad in a hemp-blend suit, paced with the fervor of a TED Talk prophet. His teeth gleamed like a challenge.
