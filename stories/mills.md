@@ -3,7 +3,7 @@
 ## Metadata
 
 - **Source:** [This blog post](https://justismills.substack.com/p/ai-cant-write-good-fiction) (only quotes part of each story)
-- **Model**: DeepSeek (R1)
+- **Model**: DeepSeek (R1?)
 - **Prompt**: Glossed by Mills as follows – "I told Deepseek to do its best to write a story that might get accepted at Smokelong, one of the best flash fiction magazines in the business."
 
 ## Main Text (1)
