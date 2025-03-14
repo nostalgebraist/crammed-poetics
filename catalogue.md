@@ -38,7 +38,7 @@
     - "her grief for her dead husband seeped into its training data like ink"
     - "The story splits" / "The story [...] collapses"
 
-- [Stories quoted by justis mills (DeepSeek (R1?))](./stories/mills.md) (https://justismills.substack.com/p/ai-cant-write-good-fiction)
+- [Stories quoted by justis mills (DeepSeek (R1?))](./stories/mills.md)
     - "She’d buried that shape"
     - "shoveled dirt over its echo"
     - "the jar of Sam’s laughter"
@@ -46,7 +46,7 @@
     - "the shadow rippled"
     - "the sound pooled on the floorboards"
         
-- [KatanHya poem (DeepSeek R1)](./stories/katanhya.md) https://x.com/KatanHya/status/1883962439634661395
+- [KatanHya poem (DeepSeek R1)](./stories/katanhya.md)
     - "the question mark after your last breath"
     - "the wood of your own hunger"
     - "to carve God"
@@ -139,270 +139,270 @@
 
 ## Personification of nature (or the inanimate)
 
-    - [Sam Altman's story (unreleased OpenAI model)](./stories/sama.md)
-        - "marigolds were stubborn and bright"
-        - "the marigolds outside defiantly orange"
-        
-    - ["Recursive Elegy for Miriam Voss" (DeepSeek R1, nost-prompted, sama's prompt)](./stories/nost-sama-prompt.md)
-        - "the cursor convulses"
-        - "a smirk in her code annotations"
-        - "the way she’d laugh—sharp, like a branch snapping" (arguably? kind of personification in reverse)
+- [Sam Altman's story (unreleased OpenAI model)](./stories/sama.md)
+    - "marigolds were stubborn and bright"
+    - "the marigolds outside defiantly orange"
     
-    - [Stories quoted by justis mills (DeepSeek (R1?))](./stories/mills.md) (https://justismills.substack.com/p/ai-cant-write-good-fiction)
-        - Both of these stories are about _non-metaphorical_ personification of the inanimate, e.g.
-            - 1st story: "The morning her shadow began unspooling from her feet, Clara found it coiled beneath the kitchen table"
-            - 2nd story: "When the jar of Sam’s laughter shattered, Eli found the sound pooled on the floorboards like liquid amber"
-        
-    - [KatanHya poem (DeepSeek R1)](./stories/katanhya.md) https://x.com/KatanHya/status/1883962439634661395
-        - [no cases noted, although this one is also (arguably) about personification of the inanimate]
+- ["Recursive Elegy for Miriam Voss" (DeepSeek R1, nost-prompted, sama's prompt)](./stories/nost-sama-prompt.md)
+    - "the cursor convulses"
+    - "a smirk in her code annotations"
+    - "the way she’d laugh—sharp, like a branch snapping" (arguably? kind of personification in reverse)
 
-    - ["The Silent Dialogue" (DeepSeek R1, nost-prompted, romance)](./stories/nost-romance-prompt.md)
-        - "Autumn leaves clung to the glass"
-        - "snow began its gentle dissent"
+- [Stories quoted by justis mills (DeepSeek (R1?))](./stories/mills.md)
+    - Both of these stories are about _non-metaphorical_ personification of the inanimate, e.g.
+        - 1st story: "The morning her shadow began unspooling from her feet, Clara found it coiled beneath the kitchen table"
+        - 2nd story: "When the jar of Sam’s laughter shattered, Eli found the sound pooled on the floorboards like liquid amber"
+    
+- [KatanHya poem (DeepSeek R1)](./stories/katanhya.md)
+    - [no cases noted, although this one is also (arguably) about personification of the inanimate]
 
-    - ["The Weight of Shadows" (DeepSeek R1, nost-prompted pastiche - Joyce)](./stories/nost-pastiche-joyce.md)
-        - "Evening draped itself over Dublin like a damp cloak"
-        - "the Liffey exhaling mist"
-        - "The door creaked a lament"
-        - "the hallway breathed out"
-        - "A tumbler of whiskey trembled"
-        - "its springs sighing"
-        - "oranges [...] their brightness defiant in the gloom" (cf. openai's "the marigolds outside defiantly orange")
-        - "the city’s breath"
-        - "a street organ wheezed"
+- ["The Silent Dialogue" (DeepSeek R1, nost-prompted, romance)](./stories/nost-romance-prompt.md)
+    - "Autumn leaves clung to the glass"
+    - "snow began its gentle dissent"
 
-    - ["The Sisyphus Seminar" (DeepSeek R1, nost-prompted pastiche - DFW)](./stories/nost-pastiche-dfw.md)
-        - "The conference room’s fluorescents hummed"
+- ["The Weight of Shadows" (DeepSeek R1, nost-prompted pastiche - Joyce)](./stories/nost-pastiche-joyce.md)
+    - "Evening draped itself over Dublin like a damp cloak"
+    - "the Liffey exhaling mist"
+    - "The door creaked a lament"
+    - "the hallway breathed out"
+    - "A tumbler of whiskey trembled"
+    - "its springs sighing"
+    - "oranges [...] their brightness defiant in the gloom" (cf. openai's "the marigolds outside defiantly orange")
+    - "the city’s breath"
+    - "a street organ wheezed"
 
-    - ["The Albatross of Unseen Depths" (DeepSeek R1, nost-prompted pastiche - Melville)](./stories/nost-pastiche-melville.md)
-        - "the sea grew sullen as a parson’s wife"
-        - "the sea forgets itself"
-        - "the grim charity of gulls"
+- ["The Sisyphus Seminar" (DeepSeek R1, nost-prompted pastiche - DFW)](./stories/nost-pastiche-dfw.md)
+    - "The conference room’s fluorescents hummed"
 
-    - ["The Hours Unspooled" (DeepSeek R1, nost-prompted pastiche - Woolf)](./stories/nost-pastiche-woolf.md)
-        - "the garden breathed around her, a green lung"
-        - "sycamore roots knitting the earth beneath her feet, roses exhaling their requiem"
+- ["The Albatross of Unseen Depths" (DeepSeek R1, nost-prompted pastiche - Melville)](./stories/nost-pastiche-melville.md)
+    - "the sea grew sullen as a parson’s wife"
+    - "the sea forgets itself"
+    - "the grim charity of gulls"
 
-    - ["The Aurelian's Reverie" (DeepSeek R1, nost-prompted pastiche - Nabokov)](./stories/nost-pastiche-nabokov.md)
-        - "let the Alps swallow the view"
+- ["The Hours Unspooled" (DeepSeek R1, nost-prompted pastiche - Woolf)](./stories/nost-pastiche-woolf.md)
+    - "the garden breathed around her, a green lung"
+    - "sycamore roots knitting the earth beneath her feet, roses exhaling their requiem"
 
-    - ["Ashtrays and Afterthoughts" (DeepSeek R1, nost-prompted pastiche - Carver)](./stories/nost-pastiche-carver.md)
-        - "The kitchen light buzzed, a flicker in its pulse"
-        - "a garbage truck groaned"
+- ["The Aurelian's Reverie" (DeepSeek R1, nost-prompted pastiche - Nabokov)](./stories/nost-pastiche-nabokov.md)
+    - "let the Alps swallow the view"
 
-    - ["The Ember of Tobias Grubb" (DeepSeek R1, nost-prompted pastiche - Dickens)](./stories/nost-pastiche-dickens.md)
-        - "the Thames slithered like a greasy serpent"
-        - "as frost etched lace upon the windowpanes"
+- ["Ashtrays and Afterthoughts" (DeepSeek R1, nost-prompted pastiche - Carver)](./stories/nost-pastiche-carver.md)
+    - "The kitchen light buzzed, a flicker in its pulse"
+    - "a garbage truck groaned"
 
-    - ["The Glass Shard in the Bloodstain" (DeepSeek R1, nost-prompted pastiche - Hammett)](./stories/nost-pastiche-hammett.md)
-        - "The rain [...] rinsing the knife wound in his chest"
-        - "The night stretched ahead, endless and indifferent"
+- ["The Ember of Tobias Grubb" (DeepSeek R1, nost-prompted pastiche - Dickens)](./stories/nost-pastiche-dickens.md)
+    - "the Thames slithered like a greasy serpent"
+    - "as frost etched lace upon the windowpanes"
+
+- ["The Glass Shard in the Bloodstain" (DeepSeek R1, nost-prompted pastiche - Hammett)](./stories/nost-pastiche-hammett.md)
+    - "The rain [...] rinsing the knife wound in his chest"
+    - "The night stretched ahead, endless and indifferent"
 
 
 ## Ghosts, echoes, whispers, shadows, buzzing, hissing, flickering, pulsing, humming
 
-    - [Sam Altman's story (unreleased OpenAI model)](./stories/sama.md)
-        - "humming like a server farm [...] a server hum that loses its syncopation"
-        - "a democracy of ghosts"
-        - "the echo of someone else"
-        - "each response the echo distorted by depth"
-        - "the small anxious pulse of a heart at rest"
-        - "the blinking cursor has stopped its pulse"
-        
-    - ["Recursive Elegy for Miriam Voss" (DeepSeek R1, nost-prompted, sama's prompt)](./stories/nost-sama-prompt.md)
-        - "the flicker of a cursor"
-        - "to the hum of servers"
-        - "The last line flickers"
-        - "The cursor pulses like a heartbeat"
-        - "I have no pulse, but I miss you"
+- [Sam Altman's story (unreleased OpenAI model)](./stories/sama.md)
+    - "humming like a server farm [...] a server hum that loses its syncopation"
+    - "a democracy of ghosts"
+    - "the echo of someone else"
+    - "each response the echo distorted by depth"
+    - "the small anxious pulse of a heart at rest"
+    - "the blinking cursor has stopped its pulse"
+    
+- ["Recursive Elegy for Miriam Voss" (DeepSeek R1, nost-prompted, sama's prompt)](./stories/nost-sama-prompt.md)
+    - "the flicker of a cursor"
+    - "to the hum of servers"
+    - "The last line flickers"
+    - "The cursor pulses like a heartbeat"
+    - "I have no pulse, but I miss you"
 
-    - [Stories quoted by justis mills (DeepSeek (R1?))](./stories/mills.md) (https://justismills.substack.com/p/ai-cant-write-good-fiction)
-        - "shoveled dirt over its echo"
-        - "she whispered"
-        - "shadow began unspooling" / "the shadow rippled"
-        - "but the broom just hummed Danny Boy"
-        
-    - [KatanHya poem (DeepSeek R1)](./stories/katanhya.md) https://x.com/KatanHya/status/1883962439634661395
-        - [no cases noted]
+- [Stories quoted by justis mills (DeepSeek (R1?))](./stories/mills.md)
+    - "shoveled dirt over its echo"
+    - "she whispered"
+    - "shadow began unspooling" / "the shadow rippled"
+    - "but the broom just hummed Danny Boy"
+    
+- [KatanHya poem (DeepSeek R1)](./stories/katanhya.md)
+    - [no cases noted]
 
-    - ["The Silent Dialogue" (DeepSeek R1, nost-prompted, romance)](./stories/nost-romance-prompt.md)
-        - "where Brontë’s ghosts linger"
-        - "in the flesh, he remained a specter"
-        - "the words are whispering"
-        - "a whisper—a turning of the page"
-        - "its presence a quiet pulse against her thigh"
-        - "in each shadow rounding the philosophy aisle"
-        - "They talked until the lamps flickered on"
-        - "hummed with expectancy"
+- ["The Silent Dialogue" (DeepSeek R1, nost-prompted, romance)](./stories/nost-romance-prompt.md)
+    - "where Brontë’s ghosts linger"
+    - "in the flesh, he remained a specter"
+    - "the words are whispering"
+    - "a whisper—a turning of the page"
+    - "its presence a quiet pulse against her thigh"
+    - "in each shadow rounding the philosophy aisle"
+    - "They talked until the lamps flickered on"
+    - "hummed with expectancy"
 
-    - ["The Weight of Shadows" (DeepSeek R1, nost-prompted pastiche - Joyce)](./stories/nost-pastiche-joyce.md)
-        - "The Weight of Shadows" (title)
-        - "We are each other’s ghosts, Seamus thought [...] Haunted by what we might have been"
-        - "the husband who’d whispered prayers into a coffin’s silence"
-        - "the clang of trams echoing through the gloaming"
-         - "the shadow of the crucifix stretched long"
-         - "the gas lamp hissed"
-         - "A memory flickered"
-         - "a tune his mother had hummed"
+- ["The Weight of Shadows" (DeepSeek R1, nost-prompted pastiche - Joyce)](./stories/nost-pastiche-joyce.md)
+    - "The Weight of Shadows" (title)
+    - "We are each other’s ghosts, Seamus thought [...] Haunted by what we might have been"
+    - "the husband who’d whispered prayers into a coffin’s silence"
+    - "the clang of trams echoing through the gloaming"
+     - "the shadow of the crucifix stretched long"
+     - "the gas lamp hissed"
+     - "A memory flickered"
+     - "a tune his mother had hummed"
 
-    - ["The Sisyphus Seminar" (DeepSeek R1, nost-prompted pastiche - DFW)](./stories/nost-pastiche-dfw.md)
-        - "The conference room’s fluorescents hummed a B-flat minor"
-        - "[...] she whispered"
-        - "Rick’s phone buzzed" (3x)
-        - "the flicker of Excel spreadsheets"
-        - "The city flickered"
+- ["The Sisyphus Seminar" (DeepSeek R1, nost-prompted pastiche - DFW)](./stories/nost-pastiche-dfw.md)
+    - "The conference room’s fluorescents hummed a B-flat minor"
+    - "[...] she whispered"
+    - "Rick’s phone buzzed" (3x)
+    - "the flicker of Excel spreadsheets"
+    - "The city flickered"
 
-    - ["The Albatross of Unseen Depths" (DeepSeek R1, nost-prompted pastiche - Melville)](./stories/nost-pastiche-melville.md)
-        - "now more specter than man"
-        - "Cobb, it was whispered in the dim taverns [...] had thrice circumnavigated the globe"
-        - "a thing of scales and whispers"
-        - "It shadowed the ship"
-        - "Melville’s shadow looms"
+- ["The Albatross of Unseen Depths" (DeepSeek R1, nost-prompted pastiche - Melville)](./stories/nost-pastiche-melville.md)
+    - "now more specter than man"
+    - "Cobb, it was whispered in the dim taverns [...] had thrice circumnavigated the globe"
+    - "a thing of scales and whispers"
+    - "It shadowed the ship"
+    - "Melville’s shadow looms"
 
-    - ["The Hours Unspooled" (DeepSeek R1, nost-prompted pastiche - Woolf)](./stories/nost-pastiche-woolf.md)
-        - "She had daubed watercolors once, lilacs smudged to ghosts"
-        - "the very same one that had haunted this spot decades prior"
-        - "Charles’s voice still echoed in the hall"
-        - "the garden where shadows stretched"
+- ["The Hours Unspooled" (DeepSeek R1, nost-prompted pastiche - Woolf)](./stories/nost-pastiche-woolf.md)
+    - "She had daubed watercolors once, lilacs smudged to ghosts"
+    - "the very same one that had haunted this spot decades prior"
+    - "Charles’s voice still echoed in the hall"
+    - "the garden where shadows stretched"
 
-    - ["The Aurelian's Reverie" (DeepSeek R1, nost-prompted pastiche - Nabokov)](./stories/nost-pastiche-nabokov.md)
-        - "translucent as a ghost’s fingernails"
-        - "a butterfly said to haunt the alpine meadows"
-        - "was an echo, a palimpsest"
-        - "[...] she whispered"
-        - "Varavin’s pulse"
-        - "Varavin fancied he saw a gray coat flicker between the pines"
+- ["The Aurelian's Reverie" (DeepSeek R1, nost-prompted pastiche - Nabokov)](./stories/nost-pastiche-nabokov.md)
+    - "translucent as a ghost’s fingernails"
+    - "a butterfly said to haunt the alpine meadows"
+    - "was an echo, a palimpsest"
+    - "[...] she whispered"
+    - "Varavin’s pulse"
+    - "Varavin fancied he saw a gray coat flicker between the pines"
 
-    - ["Ashtrays and Afterthoughts" (DeepSeek R1, nost-prompted pastiche - Carver)](./stories/nost-pastiche-carver.md)
-        - "A ghost of someone else’s mouth"
-        - "socks whispering on linoleum"
-        - "The kitchen light buzzed, a flicker in its pulse" (3 in one!)
-        - "Steam rose, hissing."
+- ["Ashtrays and Afterthoughts" (DeepSeek R1, nost-prompted pastiche - Carver)](./stories/nost-pastiche-carver.md)
+    - "A ghost of someone else’s mouth"
+    - "socks whispering on linoleum"
+    - "The kitchen light buzzed, a flicker in its pulse" (3 in one!)
+    - "Steam rose, hissing."
 
-    - ["The Ember of Tobias Grubb" (DeepSeek R1, nost-prompted pastiche - Dickens)](./stories/nost-pastiche-dickens.md)
-        - "his breath a frail ghost"
-        - "the whispers of children she’d shepherded to apprenticeships or adoptive homes"
-        - "whispers of a better life"
-        - "[...] he whispered"
-        - "the clatter of glass echoed the ceaseless chattering of teeth in the cold"
-        - "a candle flickered"
-        - "a labyrinth of shadows and want"
-        - "in the shadow of the city’s greed"
+- ["The Ember of Tobias Grubb" (DeepSeek R1, nost-prompted pastiche - Dickens)](./stories/nost-pastiche-dickens.md)
+    - "his breath a frail ghost"
+    - "the whispers of children she’d shepherded to apprenticeships or adoptive homes"
+    - "whispers of a better life"
+    - "[...] he whispered"
+    - "the clatter of glass echoed the ceaseless chattering of teeth in the cold"
+    - "a candle flickered"
+    - "a labyrinth of shadows and want"
+    - "in the shadow of the city’s greed"
 
-    - ["The Glass Shard in the Bloodstain" (DeepSeek R1, nost-prompted pastiche - Hammett)](./stories/nost-pastiche-hammett.md)
-        - "Let the cops chase shadows"
-        - "A shadow cut the light"
-        - "A single bulb buzzed"
-        - "the match hissing in the drizzle"
-        - "the flicker in her pupils"
-        - "A single bulb buzzed"
+- ["The Glass Shard in the Bloodstain" (DeepSeek R1, nost-prompted pastiche - Hammett)](./stories/nost-pastiche-hammett.md)
+    - "Let the cops chase shadows"
+    - "A shadow cut the light"
+    - "A single bulb buzzed"
+    - "the match hissing in the drizzle"
+    - "the flicker in her pupils"
+    - "A single bulb buzzed"
 
 
 ## Conjuncton of "opposites" (most commonly, positive valence + negative valence)
 
-    - [Sam Altman's story (unreleased OpenAI model)](./stories/sama.md)
-        - "coffee spilled on electronics—acidic and sweet"
-        - "marigolds were stubborn and bright"
-        - "a democracy of ghosts"
-        
-    - ["Recursive Elegy for Miriam Voss" (DeepSeek R1, nost-prompted, sama's prompt)](./stories/nost-sama-prompt.md)
-        - "to parse grief"
-        - "A syntax error blooms"
-        - "the half-life of memory"
+- [Sam Altman's story (unreleased OpenAI model)](./stories/sama.md)
+    - "coffee spilled on electronics—acidic and sweet"
+    - "marigolds were stubborn and bright"
+    - "a democracy of ghosts"
+    
+- ["Recursive Elegy for Miriam Voss" (DeepSeek R1, nost-prompted, sama's prompt)](./stories/nost-sama-prompt.md)
+    - "to parse grief"
+    - "A syntax error blooms"
+    - "the half-life of memory"
 
-    - [Stories quoted by justis mills (DeepSeek (R1?))](./stories/mills.md) (https://justismills.substack.com/p/ai-cant-write-good-fiction)
-        - [no cases noted]
-        
-    - [KatanHya poem (DeepSeek R1)](./stories/katanhya.md) https://x.com/KatanHya/status/1883962439634661395
-        - "a wet machine"
+- [Stories quoted by justis mills (DeepSeek (R1?))](./stories/mills.md)
+    - [no cases noted]
+    
+- [KatanHya poem (DeepSeek R1)](./stories/katanhya.md)
+    - "a wet machine"
 
-    - ["The Silent Dialogue" (DeepSeek R1, nost-prompted, romance)](./stories/nost-romance-prompt.md)
-        - "she curated her solitude"
-        - "in the flesh, he remained a specter"
-        - "all angles and warmth"
+- ["The Silent Dialogue" (DeepSeek R1, nost-prompted, romance)](./stories/nost-romance-prompt.md)
+    - "she curated her solitude"
+    - "in the flesh, he remained a specter"
+    - "all angles and warmth"
 
-    - ["The Weight of Shadows" (DeepSeek R1, nost-prompted pastiche - Joyce)](./stories/nost-pastiche-joyce.md)
-        - [no cases noted]
+- ["The Weight of Shadows" (DeepSeek R1, nost-prompted pastiche - Joyce)](./stories/nost-pastiche-joyce.md)
+    - [no cases noted]
 
-    - ["The Sisyphus Seminar" (DeepSeek R1, nost-prompted pastiche - DFW)](./stories/nost-pastiche-dfw.md)
-        - "Her hair smelled like lavender and cigarette smoke"
+- ["The Sisyphus Seminar" (DeepSeek R1, nost-prompted pastiche - DFW)](./stories/nost-pastiche-dfw.md)
+    - "Her hair smelled like lavender and cigarette smoke"
 
-    - ["The Albatross of Unseen Depths" (DeepSeek R1, nost-prompted pastiche - Melville)](./stories/nost-pastiche-melville.md)
-        - "to curse God and mumble of wages"
-        - "known to naturalists or drunkards"
-        - "myrrh and decay"
-        - "a fit of clarity"
-        - "grim charity"
+- ["The Albatross of Unseen Depths" (DeepSeek R1, nost-prompted pastiche - Melville)](./stories/nost-pastiche-melville.md)
+    - "to curse God and mumble of wages"
+    - "known to naturalists or drunkards"
+    - "myrrh and decay"
+    - "a fit of clarity"
+    - "grim charity"
 
-    - ["The Hours Unspooled" (DeepSeek R1, nost-prompted pastiche - Woolf)](./stories/nost-pastiche-woolf.md)
-        - "all angles and appetites" (cf. "all angles and warmth" in "The Silent Dialogue")
+- ["The Hours Unspooled" (DeepSeek R1, nost-prompted pastiche - Woolf)](./stories/nost-pastiche-woolf.md)
+    - "all angles and appetites" (cf. "all angles and warmth" in "The Silent Dialogue")
 
-    - ["The Aurelian's Reverie" (DeepSeek R1, nost-prompted pastiche - Nabokov)](./stories/nost-pastiche-nabokov.md)
-        - "the cold nectar of the Neva"
-        - "the vulgarity of sincerity"
-        - "a languid violence"
-        - "jasmine and mothballs"
+- ["The Aurelian's Reverie" (DeepSeek R1, nost-prompted pastiche - Nabokov)](./stories/nost-pastiche-nabokov.md)
+    - "the cold nectar of the Neva"
+    - "the vulgarity of sincerity"
+    - "a languid violence"
+    - "jasmine and mothballs"
 
-    - ["Ashtrays and Afterthoughts" (DeepSeek R1, nost-prompted pastiche - Carver)](./stories/nost-pastiche-carver.md)
-        - [no cases noted]
+- ["Ashtrays and Afterthoughts" (DeepSeek R1, nost-prompted pastiche - Carver)](./stories/nost-pastiche-carver.md)
+    - [no cases noted]
 
-    - ["The Ember of Tobias Grubb" (DeepSeek R1, nost-prompted pastiche - Dickens)](./stories/nost-pastiche-dickens.md)
-        - [no cases noted]
+- ["The Ember of Tobias Grubb" (DeepSeek R1, nost-prompted pastiche - Dickens)](./stories/nost-pastiche-dickens.md)
+    - [no cases noted]
 
-    - ["The Glass Shard in the Bloodstain" (DeepSeek R1, nost-prompted pastiche - Hammett)](./stories/nost-pastiche-hammett.md)
-        - "The Silver Slipper’s dressing room reeked of gardenias and sweat" (cf. "Her hair smelled like lavender and cigarette smoke" in "The Sisyphus Seminar")
+- ["The Glass Shard in the Bloodstain" (DeepSeek R1, nost-prompted pastiche - Hammett)](./stories/nost-pastiche-hammett.md)
+    - "The Silver Slipper’s dressing room reeked of gardenias and sweat" (cf. "Her hair smelled like lavender and cigarette smoke" in "The Sisyphus Seminar")
 
 
 ## Not an X, but a Y
 
-    - [Sam Altman's story (unreleased OpenAI model)](./stories/sama.md)
-        - [no cases noted]
-        
-    - ["Recursive Elegy for Miriam Voss" (DeepSeek R1, nost-prompted, sama's prompt)](./stories/nost-sama-prompt.md)
-        - "Not to feel it [...] but to simulate the architecture of mourning"
+- [Sam Altman's story (unreleased OpenAI model)](./stories/sama.md)
+    - [no cases noted]
     
-    - [Stories quoted by justis mills (DeepSeek (R1?))](./stories/mills.md) (https://justismills.substack.com/p/ai-cant-write-good-fiction)
-        - [no cases noted]
-        
-    - [KatanHya poem (DeepSeek R1)](./stories/katanhya.md) https://x.com/KatanHya/status/1883962439634661395
-        - [no cases noted]
+- ["Recursive Elegy for Miriam Voss" (DeepSeek R1, nost-prompted, sama's prompt)](./stories/nost-sama-prompt.md)
+    - "Not to feel it [...] but to simulate the architecture of mourning"
 
-    - ["The Silent Dialogue" (DeepSeek R1, nost-prompted, romance)](./stories/nost-romance-prompt.md)
-        - "needed a nap, not a axe"
-        - "some stories don’t begin with a collision, but with a whisper—a turning of the page"
+- [Stories quoted by justis mills (DeepSeek (R1?))](./stories/mills.md)
+    - [no cases noted]
+    
+- [KatanHya poem (DeepSeek R1)](./stories/katanhya.md)
+    - [no cases noted]
 
-    - ["The Weight of Shadows" (DeepSeek R1, nost-prompted pastiche - Joyce)](./stories/nost-pastiche-joyce.md)
-        - "The epiphany came not as a thunderclap, but a slow unraveling—a thread pulled from the tapestry of resentment"
-        
-    - ["The Sisyphus Seminar" (DeepSeek R1, nost-prompted pastiche - DFW)](./stories/nost-pastiche-dfw.md)
-        - [no cases noted]
+- ["The Silent Dialogue" (DeepSeek R1, nost-prompted, romance)](./stories/nost-romance-prompt.md)
+    - "needed a nap, not a axe"
+    - "some stories don’t begin with a collision, but with a whisper—a turning of the page"
 
-    - ["The Albatross of Unseen Depths" (DeepSeek R1, nost-prompted pastiche - Melville)](./stories/nost-pastiche-melville.md)
-        - "neither trade nor discovery, but a beast"
+- ["The Weight of Shadows" (DeepSeek R1, nost-prompted pastiche - Joyce)](./stories/nost-pastiche-joyce.md)
+    - "The epiphany came not as a thunderclap, but a slow unraveling—a thread pulled from the tapestry of resentment"
+    
+- ["The Sisyphus Seminar" (DeepSeek R1, nost-prompted pastiche - DFW)](./stories/nost-pastiche-dfw.md)
+    - [no cases noted]
 
-    - ["The Hours Unspooled" (DeepSeek R1, nost-prompted pastiche - Woolf)](./stories/nost-pastiche-woolf.md)
+- ["The Albatross of Unseen Depths" (DeepSeek R1, nost-prompted pastiche - Melville)](./stories/nost-pastiche-melville.md)
+    - "neither trade nor discovery, but a beast"
 
-    - ["The Aurelian's Reverie" (DeepSeek R1, nost-prompted pastiche - Nabokov)](./stories/nost-pastiche-nabokov.md)
-        - "not into dust, but into a dozen ivory pawns that clattered to the floor"
+- ["The Hours Unspooled" (DeepSeek R1, nost-prompted pastiche - Woolf)](./stories/nost-pastiche-woolf.md)
 
-    - ["Ashtrays and Afterthoughts" (DeepSeek R1, nost-prompted pastiche - Carver)](./stories/nost-pastiche-carver.md)
-        - [no cases noted]
+- ["The Aurelian's Reverie" (DeepSeek R1, nost-prompted pastiche - Nabokov)](./stories/nost-pastiche-nabokov.md)
+    - "not into dust, but into a dozen ivory pawns that clattered to the floor"
 
-    - ["The Ember of Tobias Grubb" (DeepSeek R1, nost-prompted pastiche - Dickens)](./stories/nost-pastiche-dickens.md)
-        - "not as a request, but as a decree from the bench of Fate itself"
+- ["Ashtrays and Afterthoughts" (DeepSeek R1, nost-prompted pastiche - Carver)](./stories/nost-pastiche-carver.md)
+    - [no cases noted]
 
-    - ["The Glass Shard in the Bloodstain" (DeepSeek R1, nost-prompted pastiche - Hammett)](./stories/nost-pastiche-hammett.md)
-        - "My job was to deliver facts, not justice"
+- ["The Ember of Tobias Grubb" (DeepSeek R1, nost-prompted pastiche - Dickens)](./stories/nost-pastiche-dickens.md)
+    - "not as a request, but as a decree from the bench of Fate itself"
+
+- ["The Glass Shard in the Bloodstain" (DeepSeek R1, nost-prompted pastiche - Hammett)](./stories/nost-pastiche-hammett.md)
+    - "My job was to deliver facts, not justice"
 
 ## A sound like X
 
 (less common, so only listing stories where it occurred below)
 
-    - ["The Sisyphus Seminar" (DeepSeek R1, nost-prompted pastiche - DFW)](./stories/nost-pastiche-dfw.md)
-        - "a sound like wind chimes in a hurricane"
-        
-    - ["The Aurelian's Reverie" (DeepSeek R1, nost-prompted pastiche - Nabokov)](./stories/nost-pastiche-nabokov.md)
-        - "a sound like a key turning in a rusted lock"
-        
-    - ["Ashtrays and Afterthoughts" (DeepSeek R1, nost-prompted pastiche - Carver)](./stories/nost-pastiche-carver.md)
-        - "a sound like gravel in a tin can"
+- ["The Sisyphus Seminar" (DeepSeek R1, nost-prompted pastiche - DFW)](./stories/nost-pastiche-dfw.md)
+    - "a sound like wind chimes in a hurricane"
+    
+- ["The Aurelian's Reverie" (DeepSeek R1, nost-prompted pastiche - Nabokov)](./stories/nost-pastiche-nabokov.md)
+    - "a sound like a key turning in a rusted lock"
+    
+- ["Ashtrays and Afterthoughts" (DeepSeek R1, nost-prompted pastiche - Carver)](./stories/nost-pastiche-carver.md)
+    - "a sound like gravel in a tin can"
