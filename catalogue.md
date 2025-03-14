@@ -44,7 +44,7 @@ I noted multiple instances of these "tics" in every model-generated text include
     - "her grief for her dead husband seeped into its training data like ink"
     - "The story splits" / "The story [...] collapses"
 
-- [Stories quoted by justis mills (DeepSeek (R1?))](./stories/mills.md)
+- [Stories quoted by Justis Mills (DeepSeek (R1?))](./stories/mills.md)
     - "She’d buried that shape"
     - "shoveled dirt over its echo"
     - "the jar of Sam’s laughter"
@@ -154,7 +154,7 @@ I noted multiple instances of these "tics" in every model-generated text include
     - "a smirk in her code annotations"
     - "the way she’d laugh—sharp, like a branch snapping" (arguably? kind of personification in reverse)
 
-- [Stories quoted by justis mills (DeepSeek (R1?))](./stories/mills.md)
+- [Stories quoted by Justis Mills (DeepSeek (R1?))](./stories/mills.md)
     - Both of these stories are about _non-metaphorical_ personification of the inanimate, e.g.
         - 1st story: "The morning her shadow began unspooling from her feet, Clara found it coiled beneath the kitchen table"
         - 2nd story: "When the jar of Sam’s laughter shattered, Eli found the sound pooled on the floorboards like liquid amber"
@@ -222,7 +222,7 @@ I noted multiple instances of these "tics" in every model-generated text include
     - "The cursor pulses like a heartbeat"
     - "I have no pulse, but I miss you"
 
-- [Stories quoted by justis mills (DeepSeek (R1?))](./stories/mills.md)
+- [Stories quoted by Justis Mills (DeepSeek (R1?))](./stories/mills.md)
     - "shoveled dirt over its echo"
     - "she whispered"
     - "shadow began unspooling" / "the shadow rippled"
@@ -320,7 +320,7 @@ Does not cover "conjunction of the abstract/incorporeal and the concrete/sensory
     - "A syntax error blooms"
     - "the half-life of memory"
 
-- [Stories quoted by justis mills (DeepSeek (R1?))](./stories/mills.md)
+- [Stories quoted by Justis Mills (DeepSeek (R1?))](./stories/mills.md)
     - [no cases noted]
     
 - [KatanHya poem (DeepSeek R1)](./stories/katanhya.md)
@@ -371,7 +371,7 @@ Does not cover "conjunction of the abstract/incorporeal and the concrete/sensory
 - ["Recursive Elegy for Miriam Voss" (DeepSeek R1, nost-prompted, sama's prompt)](./stories/nost-sama-prompt.md)
     - "Not to feel it [...] but to simulate the architecture of mourning"
 
-- [Stories quoted by justis mills (DeepSeek (R1?))](./stories/mills.md)
+- [Stories quoted by Justis Mills (DeepSeek (R1?))](./stories/mills.md)
     - [no cases noted]
     
 - [KatanHya poem (DeepSeek R1)](./stories/katanhya.md)
