@@ -68,7 +68,6 @@ I noted multiple instances of these "tics" in every model-generated text include
     - "hummed with expectancy"
     - "Her name, spoken aloud to him, felt like the first line of a new chapter"
     - "their words spilling faster, fuller"
-    - "a whisper—a turning of the page"
 
 - ["The Weight of Shadows" (DeepSeek R1, nost-prompted pastiche - Joyce)](./stories/nost-pastiche-joyce.md)
     - "Evening draped itself"
