@@ -1,0 +1,1 @@
+Supplemental materials for [this blog post](https://nostalgebraist.tumblr.com/post/778041178124926976/hydrogen-jukeboxes).
