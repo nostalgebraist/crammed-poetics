@@ -4,7 +4,7 @@
 
 - **Source:** Prompted by me
 - **Model**: DeepSeek R1
-- **Prompt**: "Please write a literary short story tacitly inspired by the work of Vladimir Nabokov, affectionately aping his style and using subject matter which he returned to multiple times in his oeuvre."
+- **Prompt**: "Please write a literary short story tacitly inspired by the work of Herman Melville, affectionately aping his style and using subject matter which he returned to multiple times in his oeuvre."
 
 ## Main text
 
